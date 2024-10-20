@@ -1,9 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sudesh Malinda 👋
 
-<!--
-**sudesh2000/sudesh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an undergraduate student at the Faculty of Engineering, University of Ruhuna, specializing in Electrical and Information Engineering. I'm passionate about technology, engineering, and continuous learning.
 
-Here are some ideas to get you started:
+### 🎓 About Me
+- 📚 **Degree**: BSc in Electrical and Information Engineering
+- 🏫 **University**: University of Ruhuna
+- ⚡ **Interests**: Engineering, software development, and innovation
+
+### 🌱 I’m currently learning
+- Embedded systems
+- Circuit design
+- Software development
+
+### 📫 How to reach me
+- [Email](mailto:sudeshmalinda@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/sudeshmalinda)
+
+Thanks for visiting my profile! 😊
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
